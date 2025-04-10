@@ -1,14 +1,82 @@
-<h1 align="center">Hi 👋, I'm Andreas Tzitzikas</h1>
-<h3 align="center">Senior in Computer Engineering at the University of Maryland, College Park</h3>
+## 👋 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andreas-tzitzikas) 
+I’m a senior majoring in **Computer Engineering** at the **University of Maryland, College Park**.  
+I specialize in **digital electronics**, particularly **computer architecture** and **hardware description languages**.  
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wafer0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Currently, I’m working on a **dual-core RISC-V processor** on an FPGA featuring:  
+- Out-of-order execution  
+- Shared cache  
+- ISA extensions  
+- Multicore scalability  
 
+---
 
-## About Me: 
-I am a senior in computer enginnering at the university of maryland colelg epark. <br>I spelizise in digital electronics especiall computer architecture and hardware defined languages<br>Currentlu working on a dual core risk five processoron an fpga with out of order execturion, shared cashe, isa extensions and multicore sca;obilityu<br>here is my resume <br>EDUCATION	<br>University of Maryland	College Park, MD<br>A. James Clark School of Engineering		    GPA: 3.85<br>Bachelor of Science in Computer Engineering	Expected: May 2026<br><br>Relevant Coursework	<br>  Digital: Digital Logic Design (ENEE244), Digital Circuits Laboratory (ENEE245), Digital CMOS VLSI Design (ENEE640)<br>  Analog: Electric Circuits (ENEE205), Micro/Nano Electronics (ENEE304)<br>  Programming: Object-Oriented Programming I & II (CMSC133, CMSC132), Introduction to Computer Systems  _(CMSC216), Programming Languages (CMSC330), Computer Organization (ENEE350), Microprocessors (ENEE440)<br>	<br>Skills	<br>  Programming Languages<br>       Java, C, Verilog, MATLAB, Arduino, ARM-7 Assembly, MIPS Assembly, AVR Assembly<br>  Software & Tools<br>       Cadence Virtuoso, KiCad, PSpice, Xilinx Vivado, CircuitPro, LPKF, Git, GitHub, Jira, Bash<br>  Hardware & Technical Skills<br>       FPGA Programming, CMOS Circuit Design & Optimization, Microcontroller-Based Design, PCB Design & Manufacturing,<br>       Oscilloscope & DMM Analysis, Electrical Circuit Testing, Soldering, Digital System Debugging<br><br>Technical Experience	<br>Instructional Electronics Lab Terrapin Works	College Park, MD<br>Technician	       Jan 2024 – Present<br>Collaborated with customers and university researchers to design and produce 12 custom PCBs per semester using the LPKF PCB manufacturing equipment, ensuring high-quality and tailored solutions.<br>Co-created and led bi-weekly campus workshops. These workshops supported ENES100 (Introduction to Engineering) and were also open to students of all majors. We conducted two types of workshops: introductory sessions on soldering and Arduino, each with an average attendance of about 30 people.<br>Staffed the Instructional Electronics Lab, assisting students and researchers with diagnosing and building electronic devices for personal or professional use.<br><br>Project Experience	<br>6-bit Dadda Multiplier in CMOS	                     Mar 2025 – Apr 2025<br>  ENEE 640: Digital CMOS VLSI Design<br>Designed and implemented a high-performance 6-bit Dadda multiplier optimized for low power and minimal propagation delay, targeting efficient deep neural network acceleration.<br>Performed manual transistor-level optimizations including gate sizing, strategic transistor placement, and layout refinement to reduce area and power consumption.<br>Achieved significant improvements in performance by balancing speed, power, and area trade-offs, with final metrics verified through Spectre simulations.<br><br>Space Invaders Inspired Video Game	   May 2024<br>Java-based game	<br>Developed a Space Invaders-style video game featuring multiple levels and dynamic gameplay, implementing object creation and destruction based on the game's state.<br>Programmed keyboard input functionality to control the main character’s movement and interaction with enemies, enhancing user engagement and experience.<br><br>Custom PCB for Soldering Workshop	       Jan 2024 – Present<br>For The Instructional Electronics Lab<br>Redesigned the workshop board in KiCad to resolve button functionality issues, resulting in a 30% increase in the production of fully functional boards.<br>Operating CircuitPro and LPKF equipment to mill circuits onto FR4, followed by the application of silkscreen and solder mask.<br>
+## 📄 Resume
+
+### 🎓 Education  
+**University of Maryland – College Park, MD**  
+*A. James Clark School of Engineering*  
+**Bachelor of Science in Computer Engineering** – *Expected: May 2026*  
+**GPA:** 3.85  
+
+### 🧠 Relevant Coursework  
+**Digital:**  
+- Digital Logic Design (ENEE244)  
+- Digital Circuits Laboratory (ENEE245)  
+- Digital CMOS VLSI Design (ENEE640)  
+
+**Analog:**  
+- Electric Circuits (ENEE205)  
+- Micro/Nano Electronics (ENEE304)  
+
+**Programming:**  
+- Object-Oriented Programming I & II (CMSC133, CMSC132)  
+- Introduction to Computer Systems (CMSC216)  
+- Programming Languages (CMSC330)  
+- Computer Organization (ENEE350)  
+- Microprocessors (ENEE440)  
+
+---
+
+### 🛠 Skills  
+
+**Programming Languages:**  
+Java, C, Verilog, MATLAB, Arduino, ARM-7 Assembly, MIPS Assembly, AVR Assembly  
+
+**Software & Tools:**  
+Cadence Virtuoso, KiCad, PSpice, Xilinx Vivado, CircuitPro, LPKF, Git, GitHub, Jira, Bash  
+
+**Hardware & Technical Skills:**  
+FPGA Programming, CMOS Circuit Design & Optimization, Microcontroller-Based Design,  
+PCB Design & Manufacturing, Oscilloscope & DMM Analysis, Electrical Circuit Testing,  
+Soldering, Digital System Debugging  
+
+---
+
+## 🧪 Technical Experience  
+
+**Instructional Electronics Lab – Terrapin Works**  
+*Technician | College Park, MD | Jan 2024 – Present*  
+- Collaborated with students and researchers to design and produce 12+ custom PCBs per semester using LPKF equipment  
+- Co-led bi-weekly workshops (avg. 30 attendees) for soldering and Arduino basics, supporting ENES100 and open to all majors  
+- Provided in-lab support for building, testing, and debugging electronic devices  
+
+---
+
+## 💻 Project Experience  
+
+**6-bit Dadda Multiplier in CMOS**  
+*ENEE640: Digital CMOS VLSI Design | Mar 2025 – Apr 2025*  
+- Designed a high-performance 6-bit Dadda multiplier optimized for deep neural network acceleration  
+- Conducted manual transistor-level optimizations: gate sizing, placement, and layout refinement  
+- Verified performance gains with Spectre simulations  
+
+**Space Invaders-Inspired Video Game**  
+*Java | May 2024*  
+- Developed a multi-level Space Invaders-style game with dynamic object handling  
+- Implemented keyboard controls for smooth character interaction and gameplay  
+
+**Custom PCB for Soldering Workshop**  
+*Instructional Electronics Lab | Jan 2024 – Present*  
+- Redesigned KiCad workshop board to fix button issues, boosting functional board yield by 30%  
+- Used CircuitPro and LPKF equipment to mill circuits and apply silkscreen/solder mask  
