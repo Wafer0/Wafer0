@@ -2,13 +2,6 @@
 
 I’m a senior majoring in **Computer Engineering** at the **University of Maryland, College Park**.  
 I specialize in **digital electronics**, particularly **computer architecture** and **hardware description languages**.  
-
-Currently, I’m working on a **dual-core RISC-V processor** on an FPGA featuring:  
-- Out-of-order execution  
-- Shared cache  
-- ISA extensions  
-- Multicore scalability
-
 ---
 
 ## 💻 Project Experience  
