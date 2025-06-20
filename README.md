@@ -60,7 +60,7 @@ _May 2024_
 - Implemented **keyboard controls** for smooth interaction and movement of the main character.
 
 ## 🔗 Links
-- **LinkedIn:** [Wafer0 LinkedIn](https://www.linkedin.com/in/wafer0)
+- **LinkedIn:** [My LinkedIn](www.linkedin.com/in/andreas-tzitzikas)
 
 ## 📫 Contact
 Feel free to reach out to me via email: **atzitzik@umd.edu**
