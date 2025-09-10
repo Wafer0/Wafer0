@@ -5,23 +5,22 @@ I'm a Computer Engineering BS/MS student at the University of Maryland with a pa
 ### Core Competencies
 
 * **HDLs & Verification:**
-    * SystemVerilog, Verilog, UVM (Universal Verification Methodology), VHDL
+    * SystemVerilog, Verilog
 * **Programming & Scripting:**
-    * C++, Python, C, Assembly (ARM, RISC-V), Rust, Perl, Bash
+    * C/C++, Python, Assembly (ARM, RISC-V), Rust, Java, OCaml, Perl, Bash
 * **Computer Architecture Concepts:**
     * CPU Microarchitecture (Pipelining, Superscalar, Out-of-Order Execution)
     * Memory Hierarchy (Caches, Virtual Memory, Coherence Protocols)
-    * Instruction Set Architectures (ISAs) like RISC-V, ARM, x86
+    * Instruction Set Architectures (ISAs) RISC-V, ARM, x86
     * SoC Design, GPU Architecture, Network-on-Chip (NoC)
 * **EDA Tools & Methodologies:**
-    * **Simulation:** ModelSim/QuestaSim, Synopsys VCS, Cadence Xcelium
-    * **Synthesis & Implementation:** Synopsys Design Compiler, Xilinx Vivado, Intel Quartus
-    * **Physical Design & Verification:** Cadence Spectre, Static Timing Analysis (STA), Formal Verification
+    * **Simulation & Verification:** ModelSim/QuestaSim, Cadence Spectre
+    * **Synthesis & Implementation:** Xilinx Vivado, Cadence Virtuoso
     * **Methodologies:** PPA (Power, Performance, Area) Optimization, RTL Design, Testbench Development
 * **Low-Level & Embedded Systems:**
-    * Bare-Metal Firmware Development, Real-Time Control, RTOS
+    * Bare-Metal Firmware Development, Real-Time Control
     * Peripheral Interfacing (SPI, I2C, UART, GPIO, ADC/DAC)
-    * PCB Design & System Integrationgn
+    * PCB Design & System Integration
 
 ### Highlighted Projects
 
