@@ -1,6 +1,6 @@
 # Hi, I'm Andreas Tzitzikas 
 
-I'm a Computer Engineering graduate student at the University of Maryland with a passion for computer architecture, digital design, and embedded systems. My focus is on the hardware-software interface, from transistor-level optimizations to full CPU implementation.
+I'm a Computer Engineering BS/MS student at the University of Maryland with a passion for computer architecture, digital design, and embedded systems. My focus is on the hardware-software interface, from transistor-level optimizations to full CPU implementation.
 
 ### Core Competencies
 
