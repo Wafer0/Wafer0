@@ -1,33 +1,31 @@
-# Hi, I'm Andreas Tzitzikas 
+# Andreas Tzitzikas
 
-I'm a Computer Engineering BS/MS student at the University of Maryland with a passion for computer architecture, digital design, and embedded systems. My focus is on the hardware-software interface, from transistor-level optimizations to full CPU implementation.
+**Computer Engineering Student** at University of Maryland, College Park  
+**Expected Graduation:** May 2026 (B.S.) / May 2027 (M.S.)  
+📍 College Park, MD | 📧 [andreas.tz.work@gmail.com](mailto:andreas.tz.work@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/andreas-tzitzikas) | 💻 [GitHub](https://github.com/Wafer0)
 
-### Core Competencies
+## 🚀 Featured Projects
 
-* **HDLs & Verification:**
-    * SystemVerilog, Verilog
-* **Programming & Scripting:**
-    * C/C++, Python, Assembly (ARM, RISC-V), Rust, Java, OCaml, Perl, Bash
-* **Computer Architecture Concepts:**
-    * CPU Microarchitecture (Pipelining, Superscalar, Out-of-Order Execution)
-    * Memory Hierarchy (Caches, Virtual Memory, Coherence Protocols)
-    * Instruction Set Architectures (ISAs) RISC-V, ARM, x86
-    * SoC Design, GPU Architecture, Network-on-Chip (NoC)
-* **EDA Tools & Methodologies:**
-    * **Simulation & Verification:** ModelSim/QuestaSim, Cadence Spectre
-    * **Synthesis & Implementation:** Xilinx Vivado, Cadence Virtuoso
-    * **Methodologies:** PPA (Power, Performance, Area) Optimization, RTL Design, Testbench Development
-* **Low-Level & Embedded Systems:**
-    * Bare-Metal Firmware Development, Real-Time Control
-    * Peripheral Interfacing (SPI, I2C, UART, GPIO, ADC/DAC)
-    * PCB Design & System Integration
+### [RISC-V CPU Implementations](./risc-v-cpus)
+- **Tomasulo Out-of-Order CPU**: Advanced out-of-order execution using Tomasulo's Algorithm, synthesized to ASIC with Sky130 130nm PDK
+- **5-Stage In-Order CPU**: Complete RV32I implementation with pipelining, hazard detection, and ASIC synthesis
+- **Technologies:** SystemVerilog, OpenLane, ASIC Design, RISC-V ISA
 
-### Highlighted Projects
+### [ENEE440 Microprocessors](./enee440-microprocessors)
+- **Embedded Systems Development**: STM32 bare-metal firmware, real-time control systems, and peripheral integration
+- **Technologies:** ARM Assembly, C, Embedded Linux, Real-time Systems
 
-* **5-Stage Pipelined RISC-V CPU:** Designed and implemented a 5-stage pipelined CPU in SystemVerilog, achieving 100% functional correctness against 50+ assembly tests on a Xilinx FPGA.
-* **Low-Power CMOS Multiplier:** Optimized a 6-bit Dadda multiplier at the transistor-level, achieving a **30% reduction in power** and a **27% reduction in delay**.
+### [Space Invaders Game](./space-invaders)
+- **Object-Oriented Game Development**: Complete Java implementation with game mechanics, graphics, and user interface
+- **Technologies:** Java, AWT/Swing, Object-Oriented Programming
 
-### Let's Connect!
+### [Professional Resume](./Resume)
+- **Specialized Engineering Resumes**: ASIC/FPGA, Hardware, Software, Electrical, and VLSI-focused versions
+- **Technologies:** LaTeX, Professional Documentation
 
-* **LinkedIn:** [linkedin.com/in/andreas-tzitzikas](https://linkedin.com/in/andreas-tzitzikas)
-* **Email:** andreas.tz.work@gmail.com
+## 🔧 Technical Skills
+
+**Hardware/ASIC:** SystemVerilog, Verilog, RISC-V, OpenLane, Sky130 PDK, CMOS VLSI Design  
+**Embedded Systems:** STM32, ARM Assembly, Real-time Control, PCB Design  
+**Software:** C/C++, Python, Java, Rust, MPI, OpenMP, CUDA  
+**Tools:** Git, Linux, EDA Tools, FPGA Synthesis, ASIC Verification
