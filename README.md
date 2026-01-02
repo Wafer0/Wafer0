@@ -6,10 +6,6 @@ College Park, MD | andreas.tz.work@gmail.com | linkedin.com/in/andreas-tzitzikas
 
 ## Education
 
-**University of Maryland, College Park**  
-Master of Science in Computer Engineering  (GPA: 4.00)
-Bachelor of Science in Computer Engineering (GPA: 3.88)  
-
 Relevant Coursework: Digital CMOS VLSI Design, Computer Organization, Microprocessors, Digital Logic Design, Algorithms, Parallel Computing, Signal Processing
 
 ## Skills
