@@ -1,31 +1,27 @@
 # Andreas Tzitzikas
 
-**Computer Engineering Student** at University of Maryland, College Park  
-**Expected Graduation:** May 2026 (B.S.) / May 2027 (M.S.)  
-📍 College Park, MD | 📧 [andreas.tz.work@gmail.com](mailto:andreas.tz.work@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/andreas-tzitzikas) | 💻 [GitHub](https://github.com/Wafer0)
+Computer Engineering student at University of Maryland, College Park.  
+Expected graduation: May 2026 (B.S.) / May 2027 (M.S.)  
+College Park, MD | andreas.tz.work@gmail.com | linkedin.com/in/andreas-tzitzikas
 
-## 🚀 Featured Projects
+## Education
 
-### [RISC-V CPU Implementations](./risc-v-cpus)
-- **Tomasulo Out-of-Order CPU**: Advanced out-of-order execution using Tomasulo's Algorithm, synthesized to ASIC with Sky130 130nm PDK
-- **5-Stage In-Order CPU**: Complete RV32I implementation with pipelining, hazard detection, and ASIC synthesis
-- **Technologies:** SystemVerilog, OpenLane, ASIC Design, RISC-V ISA
+**University of Maryland, College Park**  
+Master of Science in Computer Engineering  (GPA: 4.00)
+Bachelor of Science in Computer Engineering (GPA: 3.88)  
 
-### [ENEE440 Microprocessors](./enee440-microprocessors)
-- **Embedded Systems Development**: STM32 bare-metal firmware, real-time control systems, and peripheral integration
-- **Technologies:** ARM Assembly, C, Embedded Linux, Real-time Systems
+Relevant Coursework: Digital CMOS VLSI Design, Computer Organization, Microprocessors, Digital Logic Design, Algorithms, Parallel Computing, Signal Processing
 
-### [Space Invaders Game](./space-invaders)
-- **Object-Oriented Game Development**: Complete Java implementation with game mechanics, graphics, and user interface
-- **Technologies:** Java, AWT/Swing, Object-Oriented Programming
+## Skills
 
-### [Professional Resume](./Resume)
-- **Specialized Engineering Resumes**: ASIC/FPGA, Hardware, Software, Electrical, and VLSI-focused versions
-- **Technologies:** LaTeX, Professional Documentation
+**Hardware Design & ASIC**  
+SystemVerilog, Verilog, RISC-V ISA, Tomasulo's Algorithm, Pipelined CPUs, Hazard Detection, ASIC Synthesis, OpenLane, Sky130 PDK, CMOS VLSI Design, Static Timing Analysis, DRC/LVS Verification, FPGA Synthesis
 
-## 🔧 Technical Skills
+**Embedded Systems**  
+STM32 Microcontrollers, ARM Assembly, Real-time Operating Systems, Peripheral Interfaces (SPI, I2C, UART, PWM), Bare-metal Programming, Interrupt Handling, PCB Design, KiCad, Altium
 
-**Hardware/ASIC:** SystemVerilog, Verilog, RISC-V, OpenLane, Sky130 PDK, CMOS VLSI Design  
-**Embedded Systems:** STM32, ARM Assembly, Real-time Control, PCB Design  
-**Software:** C/C++, Python, Java, Rust, MPI, OpenMP, CUDA  
-**Tools:** Git, Linux, EDA Tools, FPGA Synthesis, ASIC Verification
+**Software Development**  
+C/C++, Python, Java, Rust, MPI, OpenMP, CUDA, Object-Oriented Programming, Data Structures, Algorithms, Game Development, Parallel Computing, Performance Optimization
+
+**Tools & Technologies**  
+Git, Linux, Bash, Make/CMake, EDA Tools (Icarus Verilog, GTKWave, Yosys), LaTeX, MATLAB, CAD Software, Version Control, Test Automation
